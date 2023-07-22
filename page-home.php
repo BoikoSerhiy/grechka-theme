@@ -7,6 +7,7 @@ $news_sections = get_field('news_sections');
 <?php get_header(); ?>
 
     <main id="main" class="main-page">
+        test
         <div class="container">
             <div class="page-wrap">
                 <div class="page-wrap__col page-wrap__col--main">
